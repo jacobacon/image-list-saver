@@ -1,6 +1,6 @@
 Image List Saver
 
-const image-saver = require('image-saver');
+const image-saver = require('image-list-saver');
 
 
 image-saver.download([urls], destination, (err, data)=>{
